@@ -4,7 +4,7 @@ There are two methods of installing and enabling the glTF 2.0 Blender exporter. 
 
 ## Option 1: Copy into scripts/addons
 
-After extracting the ZIP, copy `scripts/addons/io_scene_gltf2` to the `scripts/addons` folder of your Blender installation.
+After extracting the ZIP, copy `scripts/addons/io_scene_gltf2` to the `scripts/addons` folder of your Blender installation. On OS X, this directory is usually found at `/Applications/Blender/blender.app/Contents/Resources/{VERSION}/scripts/addons/`.
 
 ![Blender Explore](Blender_explorer.png)
 
